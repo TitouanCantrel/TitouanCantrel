@@ -10,7 +10,7 @@
 <hr>
 
 <h2 align="center"> 🔭 Outils de travail </h2>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
+<p align="center">Python,Java,Javascript,HTML,CSS,React,PowerBI,grafana,PostgreSQL,Spark,Pandas,Numpy,Tensorflow,SK-Learn.</p>
 
 <hr>
 
