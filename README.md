@@ -2,7 +2,7 @@
 
 <h2 align="center"> 👨‍💻 Qui suis-je ?</h2>
 <p align="center">
-  <samp>A la suite de mes études d’ingénieur généraliste à l’ENIB ponctué de stages enrichissant chez Befoil et FTOC-Komilfo, je suis désormais diplômé et à la recherche d’un premier emploi pour concrétiser ce projet professionnel mûrit au fil de ces années d’études. Dynamique, motivé et investi, j’ai pu mener plusieurs projets par le biais de mes stages et de ma formation, qui m’ont permis d’acquérir des compétences diverses et une volonté d’apprendre en permanence. Je cherche désormais à mettre ces savoir-faire et savoir-être au profit d’une entreprise correspondants à mes valeurs.
+  <samp>A la suite de mes études d’ingénieur généraliste à l’ENIB ponctué de stages enrichissant chez Befoil et FTOC-Komilfo, je souhaite concrétiser ce projet professionnel mûrit au fil de ces années d’études. Dynamique, motivé et investi, j’ai pu mener plusieurs projets par le biais de mes stages et de ma formation, qui m’ont permis d’acquérir des compétences diverses et une volonté d’apprendre en permanence. Je cherche désormais à mettre ces savoir-faire et savoir-être au profit d’une entreprise correspondants à mes valeurs.
   </samp>
   <br> <br>
 </p>
