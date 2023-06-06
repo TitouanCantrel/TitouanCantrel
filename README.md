@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 <h2 align="center"> 👨‍💻 Qui suis-je ?</h2>
 <p align="center">
